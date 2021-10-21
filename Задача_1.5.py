@@ -17,3 +17,5 @@ if net_income > 0:
     print(f"Прибыль фирмы в расчете на одного сотрудника: {net_income / people: .2f}")
 elif net_income < 0:
     print("Фирма работает с убытками")
+    
+    
