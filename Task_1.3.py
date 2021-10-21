@@ -10,5 +10,3 @@ sum = int(number) + a + b
 print(sum)
 #total = (n + int(str(n) + str(n)) + int(str(n) + str(n)))
 #print("Сумма чисел n + nn + nn - %d % total")
-
-

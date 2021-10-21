@@ -13,4 +13,3 @@ while n:
             break
     n = n // 10
 print(f"Наибольшая цифра в {num} равна {max}")
-
