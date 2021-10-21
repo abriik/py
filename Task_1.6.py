@@ -37,6 +37,3 @@ while True:
             days += 1
         print(f"Спортсмен добьется результата за {days} дней")
         break
-
-        
-        
