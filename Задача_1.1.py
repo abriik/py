@@ -14,3 +14,4 @@ print('Рада знакомству,' , username)
 
 user_age = input('Сколько тебе лет? ')
 print('Тебе', user_age , 'лет')
+
