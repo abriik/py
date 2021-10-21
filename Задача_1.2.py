@@ -9,3 +9,4 @@ residue = user_time % 3600
 minutes = residue // 60
 sec = residue % 60
 print(f"Сейчас {hours}:{minutes}:{sec} ")
+
